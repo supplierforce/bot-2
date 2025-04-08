@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 ADMIN_ID = 7515320314
-BOT_TOKEN = 'COLE_SEU_TOKEN_AQUI'
+BOT_TOKEN = '7524372968:AAGXu4RA6kqkVHKo1fIuf4_Vs8CqdbNKzTE'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Chave Pix e imagem do QR Code
